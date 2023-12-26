@@ -2,13 +2,15 @@
 
 ---
 
+<img width="200" alt="contacts" src="https://github.com/kabuur/SomBloodBank/assets/99600215/706925a5-3cd4-42f6-b8c7-7ab4deb4e4d6">
+
+<img width="200" alt="contacts2" src="https://github.com/kabuur/SomBloodBank/assets/99600215/c50dceb9-58ce-4e89-9a0f-c547b530d72f">
+
+<img width="200" alt="contacts" src="https://github.com/kabuur/SomBloodBank/assets/99600215/4716e6f8-3716-425c-b29e-371d21c47406">
+<img width="200" alt="contacts2" src="https://github.com/kabuur/SomBloodBank/assets/99600215/9174d0bf-48eb-40f4-858f-b4eb302577ee">
+
 # SomBloodBank
-<img width="951" alt="contacts" src="https://github.com/kabuur/list-of-beneficiaries-contacts-/assets/99600215/289f4a3b-195a-4e48-8440-04d00310f865](https://github.com/kabuur/SomBloodBank/assets/99600215/706925a5-3cd4-42f6-b8c7-7ab4deb4e4d6)">
 
-<img width="952" alt="contacts2" src="https://github.com/kabuur/SomBloodBank/assets/99600215/c50dceb9-58ce-4e89-9a0f-c547b530d72f">
-
-<img width="951" alt="contacts" src="https://github.com/kabuur/SomBloodBank/assets/99600215/4716e6f8-3716-425c-b29e-371d21c47406">
-<img width="952" alt="contacts2" src="https://github.com/kabuur/SomBloodBank/assets/99600215/9174d0bf-48eb-40f4-858f-b4eb302577ee">
 
 This repository contains the source code for SomBloodBank, a web application for managing blood donations and blood bank inventory. The application is built using Flutter framework and JavaScript.
 
